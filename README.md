@@ -37,8 +37,10 @@ python mouse.py
 Use your webcam
 Stand in front of the camera with good lighting.
 
+Use the gestures from the table above to control your PC.
+Press Enter to exit.
+
 demo:-
 <img width="668" height="572" alt="image" src="https://github.com/user-attachments/assets/a7e8582d-16e7-4dc5-9a76-aff2ca4ea249" />
 
-Use the gestures from the table above to control your PC.
-Press Enter to exit.
+
